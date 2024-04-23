@@ -1,0 +1,1116 @@
+[
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "mean_absolute_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "ElasticNet",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "urlparse",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "urlparse",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "mlflow",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mlflow",
+        "description": "mlflow",
+        "detail": "mlflow",
+        "documentation": {}
+    },
+    {
+        "label": "mlflow.sklearn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mlflow.sklearn",
+        "description": "mlflow.sklearn",
+        "detail": "mlflow.sklearn",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "zipfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "ZipFile",
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "isExtraImport": true,
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "ZipFile",
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "isExtraImport": true,
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "gdown",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "gdown",
+        "description": "gdown",
+        "detail": "gdown",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "cnnClassifier",
+        "description": "cnnClassifier",
+        "isExtraImport": true,
+        "detail": "cnnClassifier",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "cnnClassifier",
+        "description": "cnnClassifier",
+        "isExtraImport": true,
+        "detail": "cnnClassifier",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "cnnClassifier",
+        "description": "cnnClassifier",
+        "isExtraImport": true,
+        "detail": "cnnClassifier",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "cnnClassifier",
+        "description": "cnnClassifier",
+        "isExtraImport": true,
+        "detail": "cnnClassifier",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "cnnClassifier",
+        "description": "cnnClassifier",
+        "isExtraImport": true,
+        "detail": "cnnClassifier",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "cnnClassifier",
+        "description": "cnnClassifier",
+        "isExtraImport": true,
+        "detail": "cnnClassifier",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "cnnClassifier",
+        "description": "cnnClassifier",
+        "isExtraImport": true,
+        "detail": "cnnClassifier",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "cnnClassifier",
+        "description": "cnnClassifier",
+        "isExtraImport": true,
+        "detail": "cnnClassifier",
+        "documentation": {}
+    },
+    {
+        "label": "get_size",
+        "importPath": "cnnClassifier.utils.common",
+        "description": "cnnClassifier.utils.common",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "read_yaml",
+        "importPath": "cnnClassifier.utils.common",
+        "description": "cnnClassifier.utils.common",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "create_directories",
+        "importPath": "cnnClassifier.utils.common",
+        "description": "cnnClassifier.utils.common",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "save_json",
+        "importPath": "cnnClassifier.utils.common",
+        "description": "cnnClassifier.utils.common",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "read_yaml",
+        "importPath": "cnnClassifier.utils.common",
+        "description": "cnnClassifier.utils.common",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "create_directories",
+        "importPath": "cnnClassifier.utils.common",
+        "description": "cnnClassifier.utils.common",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "decodeImage",
+        "importPath": "cnnClassifier.utils.common",
+        "description": "cnnClassifier.utils.common",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionConfig",
+        "importPath": "cnnClassifier.entity.config_entity",
+        "description": "cnnClassifier.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "EvaluationConfig",
+        "importPath": "cnnClassifier.entity.config_entity",
+        "description": "cnnClassifier.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "TrainingConfig",
+        "importPath": "cnnClassifier.entity.config_entity",
+        "description": "cnnClassifier.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "PrepareBaseModelConfig",
+        "importPath": "cnnClassifier.entity.config_entity",
+        "description": "cnnClassifier.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionConfig",
+        "importPath": "cnnClassifier.entity.config_entity",
+        "description": "cnnClassifier.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "PrepareBaseModelConfig",
+        "importPath": "cnnClassifier.entity.config_entity",
+        "description": "cnnClassifier.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "TrainingConfig",
+        "importPath": "cnnClassifier.entity.config_entity",
+        "description": "cnnClassifier.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "EvaluationConfig",
+        "importPath": "cnnClassifier.entity.config_entity",
+        "description": "cnnClassifier.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "tensorflow",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tensorflow",
+        "description": "tensorflow",
+        "detail": "tensorflow",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "mlflow.keras",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mlflow.keras",
+        "description": "mlflow.keras",
+        "detail": "mlflow.keras",
+        "documentation": {}
+    },
+    {
+        "label": "urllib.request",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.request",
+        "description": "urllib.request",
+        "detail": "urllib.request",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "cnnClassifier.constants",
+        "description": "cnnClassifier.constants",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.constants",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "importPath": "tensorflow.keras.preprocessing",
+        "description": "tensorflow.keras.preprocessing",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigurationManager",
+        "importPath": "cnnClassifier.config.configuration",
+        "description": "cnnClassifier.config.configuration",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.config.configuration",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigurationManager",
+        "importPath": "cnnClassifier.config.configuration",
+        "description": "cnnClassifier.config.configuration",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.config.configuration",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigurationManager",
+        "importPath": "cnnClassifier.config.configuration",
+        "description": "cnnClassifier.config.configuration",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.config.configuration",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigurationManager",
+        "importPath": "cnnClassifier.config.configuration",
+        "description": "cnnClassifier.config.configuration",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.config.configuration",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestion",
+        "importPath": "cnnClassifier.components.data_ingestion",
+        "description": "cnnClassifier.components.data_ingestion",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.components.data_ingestion",
+        "documentation": {}
+    },
+    {
+        "label": "PrepareBaseModel",
+        "importPath": "cnnClassifier.components.prepare_base_model",
+        "description": "cnnClassifier.components.prepare_base_model",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.components.prepare_base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Training",
+        "importPath": "cnnClassifier.components.model_trainer",
+        "description": "cnnClassifier.components.model_trainer",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.components.model_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "Evaluation",
+        "importPath": "cnnClassifier.components.model_evaluation",
+        "description": "cnnClassifier.components.model_evaluation",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.components.model_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "BoxValueError",
+        "importPath": "box.exceptions",
+        "description": "box.exceptions",
+        "isExtraImport": true,
+        "detail": "box.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "joblib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "joblib",
+        "description": "joblib",
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "ensure_annotations",
+        "importPath": "ensure",
+        "description": "ensure",
+        "isExtraImport": true,
+        "detail": "ensure",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigBox",
+        "importPath": "box",
+        "description": "box",
+        "isExtraImport": true,
+        "detail": "box",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "cross_origin",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "PredictionPipeline",
+        "importPath": "cnnClassifier.pipeline.prediction",
+        "description": "cnnClassifier.pipeline.prediction",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.pipeline.prediction",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionTrainingPipeline",
+        "importPath": "cnnClassifier.pipeline.stage_01_data_ingestion",
+        "description": "cnnClassifier.pipeline.stage_01_data_ingestion",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.pipeline.stage_01_data_ingestion",
+        "documentation": {}
+    },
+    {
+        "label": "PrepareBaseModelTrainingPipeline",
+        "importPath": "cnnClassifier.pipeline.stage_02_prepare_base_model",
+        "description": "cnnClassifier.pipeline.stage_02_prepare_base_model",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.pipeline.stage_02_prepare_base_model",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainingPipeline",
+        "importPath": "cnnClassifier.pipeline.stage_03_model_trainer",
+        "description": "cnnClassifier.pipeline.stage_03_model_trainer",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.pipeline.stage_03_model_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "EvaluationPipeline",
+        "importPath": "cnnClassifier.pipeline.stage_04_model_evaluation",
+        "description": "cnnClassifier.pipeline.stage_04_model_evaluation",
+        "isExtraImport": true,
+        "detail": "cnnClassifier.pipeline.stage_04_model_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "setuptools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "alpha",
+        "kind": 5,
+        "importPath": "research.argv-demo",
+        "description": "research.argv-demo",
+        "peekOfCode": "alpha = float(sys.argv[1]) if len(sys.argv) > 1 else 0.5\nl1_ratio = float(sys.argv[2]) if len(sys.argv) > 2 else 0.5\nprint(alpha, l1_ratio)",
+        "detail": "research.argv-demo",
+        "documentation": {}
+    },
+    {
+        "label": "l1_ratio",
+        "kind": 5,
+        "importPath": "research.argv-demo",
+        "description": "research.argv-demo",
+        "peekOfCode": "l1_ratio = float(sys.argv[2]) if len(sys.argv) > 2 else 0.5\nprint(alpha, l1_ratio)",
+        "detail": "research.argv-demo",
+        "documentation": {}
+    },
+    {
+        "label": "eval_metrics",
+        "kind": 2,
+        "importPath": "research.mlflow_demo",
+        "description": "research.mlflow_demo",
+        "peekOfCode": "def eval_metrics(actual, pred):\n    rmse = np.sqrt(mean_squared_error(actual, pred))\n    mae = mean_absolute_error(actual, pred)\n    r2 = r2_score(actual, pred)\n    return rmse, mae, r2\nif __name__ == \"__main__\":\n    warnings.filterwarnings(\"ignore\")\n    np.random.seed(40)\n    # Read the wine-quality csv file from the URL\n    csv_url = (",
+        "detail": "research.mlflow_demo",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "research.mlflow_demo",
+        "description": "research.mlflow_demo",
+        "peekOfCode": "logger = logging.getLogger(__name__)\ndef eval_metrics(actual, pred):\n    rmse = np.sqrt(mean_squared_error(actual, pred))\n    mae = mean_absolute_error(actual, pred)\n    r2 = r2_score(actual, pred)\n    return rmse, mae, r2\nif __name__ == \"__main__\":\n    warnings.filterwarnings(\"ignore\")\n    np.random.seed(40)\n    # Read the wine-quality csv file from the URL",
+        "detail": "research.mlflow_demo",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestion",
+        "kind": 6,
+        "importPath": "src.cnnClassifier.components.data_ingestion",
+        "description": "src.cnnClassifier.components.data_ingestion",
+        "peekOfCode": "class DataIngestion:\n    def __init__(self, config: DataIngestionConfig):\n        self.config = config\n    def download_file(self)-> str:\n        '''\n        Fetch data from the url\n        '''\n        try: \n            dataset_url = self.config.source_URL\n            zip_download_dir = self.config.local_data_file",
+        "detail": "src.cnnClassifier.components.data_ingestion",
+        "documentation": {}
+    },
+    {
+        "label": "Evaluation",
+        "kind": 6,
+        "importPath": "src.cnnClassifier.components.model_evaluation",
+        "description": "src.cnnClassifier.components.model_evaluation",
+        "peekOfCode": "class Evaluation:\n    def __init__(self, config: EvaluationConfig):\n        self.config = config\n    def _valid_generator(self):\n        datagenerator_kwargs = dict(\n            rescale = 1./255,\n            validation_split=0.30\n        )\n        dataflow_kwargs = dict(\n            target_size=self.config.params_image_size[:-1],",
+        "detail": "src.cnnClassifier.components.model_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "Training",
+        "kind": 6,
+        "importPath": "src.cnnClassifier.components.model_trainer",
+        "description": "src.cnnClassifier.components.model_trainer",
+        "peekOfCode": "class Training:\n    def __init__(self, config: TrainingConfig):\n        self.config = config\n    def get_base_model(self):\n        self.model = tf.keras.models.load_model(\n            self.config.updated_base_model_path\n        )\n    def train_valid_generator(self):\n        datagenerator_kwargs = dict(\n            rescale = 1./255,",
+        "detail": "src.cnnClassifier.components.model_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "PrepareBaseModel",
+        "kind": 6,
+        "importPath": "src.cnnClassifier.components.prepare_base_model",
+        "description": "src.cnnClassifier.components.prepare_base_model",
+        "peekOfCode": "class PrepareBaseModel:\n    def __init__(self, config: PrepareBaseModelConfig):\n        self.config = config\n    def get_base_model(self):\n        self.model = tf.keras.applications.vgg16.VGG16(\n            input_shape=self.config.params_image_size,\n            weights=self.config.params_weights,\n            include_top=self.config.params_include_top\n        )\n        self.save_model(path=self.config.base_model_path, model=self.model)",
+        "detail": "src.cnnClassifier.components.prepare_base_model",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigurationManager",
+        "kind": 6,
+        "importPath": "src.cnnClassifier.config.configuration",
+        "description": "src.cnnClassifier.config.configuration",
+        "peekOfCode": "class ConfigurationManager:\n    def __init__(\n        self,\n        config_filepath = CONFIG_FILE_PATH,\n        params_filepath = PARAMS_FILE_PATH):\n        self.config = read_yaml(config_filepath)\n        self.params = read_yaml(params_filepath)\n        create_directories([self.config.artifacts_root])\n    def get_data_ingestion_config(self) -> DataIngestionConfig:\n        config = self.config.data_ingestion",
+        "detail": "src.cnnClassifier.config.configuration",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionConfig",
+        "kind": 6,
+        "importPath": "src.cnnClassifier.entity.config_entity",
+        "description": "src.cnnClassifier.entity.config_entity",
+        "peekOfCode": "class DataIngestionConfig:\n    root_dir: Path\n    source_URL: str\n    local_data_file: Path\n    unzip_dir: Path\n@dataclass(frozen=True)\nclass PrepareBaseModelConfig:\n    root_dir: Path\n    base_model_path: Path\n    updated_base_model_path: Path",
+        "detail": "src.cnnClassifier.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "PrepareBaseModelConfig",
+        "kind": 6,
+        "importPath": "src.cnnClassifier.entity.config_entity",
+        "description": "src.cnnClassifier.entity.config_entity",
+        "peekOfCode": "class PrepareBaseModelConfig:\n    root_dir: Path\n    base_model_path: Path\n    updated_base_model_path: Path\n    params_image_size: list\n    params_learning_rate: float\n    params_include_top: bool\n    params_weights: str\n    params_classes: int\n@dataclass(frozen=True)",
+        "detail": "src.cnnClassifier.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "TrainingConfig",
+        "kind": 6,
+        "importPath": "src.cnnClassifier.entity.config_entity",
+        "description": "src.cnnClassifier.entity.config_entity",
+        "peekOfCode": "class TrainingConfig:\n    root_dir: Path\n    trained_model_path: Path\n    updated_base_model_path: Path\n    training_data: Path\n    params_epochs: int\n    params_batch_size: int\n    params_is_augmentation: bool\n    params_image_size: list\n@dataclass(frozen=True)",
+        "detail": "src.cnnClassifier.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "EvaluationConfig",
+        "kind": 6,
+        "importPath": "src.cnnClassifier.entity.config_entity",
+        "description": "src.cnnClassifier.entity.config_entity",
+        "peekOfCode": "class EvaluationConfig:\n    path_of_model: Path\n    training_data: Path\n    all_params: dict\n    mlflow_uri: str\n    params_image_size: list\n    params_batch_size: int",
+        "detail": "src.cnnClassifier.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "PredictionPipeline",
+        "kind": 6,
+        "importPath": "src.cnnClassifier.pipeline.prediction",
+        "description": "src.cnnClassifier.pipeline.prediction",
+        "peekOfCode": "class PredictionPipeline:\n    def __init__(self,filename):\n        self.filename =filename\n    def predict(self):\n        ## load model\n        # model = load_model(os.path.join(\"artifacts\",\"training\", \"model.h5\"))\n        model = load_model(os.path.join(\"model\", \"model.h5\"))\n        imagename = self.filename\n        test_image = image.load_img(imagename, target_size = (224,224))\n        test_image = image.img_to_array(test_image)",
+        "detail": "src.cnnClassifier.pipeline.prediction",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionTrainingPipeline",
+        "kind": 6,
+        "importPath": "src.cnnClassifier.pipeline.stage_01_data_ingestion",
+        "description": "src.cnnClassifier.pipeline.stage_01_data_ingestion",
+        "peekOfCode": "class DataIngestionTrainingPipeline:\n    def __init__(self):\n        pass\n    def main(self):\n        config = ConfigurationManager()\n        data_ingestion_config = config.get_data_ingestion_config()\n        data_ingestion = DataIngestion(config=data_ingestion_config)\n        data_ingestion.download_file()\n        data_ingestion.extract_zip_file()\nif __name__ == '__main__':",
+        "detail": "src.cnnClassifier.pipeline.stage_01_data_ingestion",
+        "documentation": {}
+    },
+    {
+        "label": "STAGE_NAME",
+        "kind": 5,
+        "importPath": "src.cnnClassifier.pipeline.stage_01_data_ingestion",
+        "description": "src.cnnClassifier.pipeline.stage_01_data_ingestion",
+        "peekOfCode": "STAGE_NAME = \"Data Ingestion stage\"\nclass DataIngestionTrainingPipeline:\n    def __init__(self):\n        pass\n    def main(self):\n        config = ConfigurationManager()\n        data_ingestion_config = config.get_data_ingestion_config()\n        data_ingestion = DataIngestion(config=data_ingestion_config)\n        data_ingestion.download_file()\n        data_ingestion.extract_zip_file()",
+        "detail": "src.cnnClassifier.pipeline.stage_01_data_ingestion",
+        "documentation": {}
+    },
+    {
+        "label": "PrepareBaseModelTrainingPipeline",
+        "kind": 6,
+        "importPath": "src.cnnClassifier.pipeline.stage_02_prepare_base_model",
+        "description": "src.cnnClassifier.pipeline.stage_02_prepare_base_model",
+        "peekOfCode": "class PrepareBaseModelTrainingPipeline:\n    def __init__(self):\n        pass\n    def main(self):\n        config = ConfigurationManager()\n        prepare_base_model_config = config.get_prepare_base_model_config()\n        prepare_base_model = PrepareBaseModel(config=prepare_base_model_config)\n        prepare_base_model.get_base_model()\n        prepare_base_model.update_base_model()\nif __name__ == '__main__':",
+        "detail": "src.cnnClassifier.pipeline.stage_02_prepare_base_model",
+        "documentation": {}
+    },
+    {
+        "label": "STAGE_NAME",
+        "kind": 5,
+        "importPath": "src.cnnClassifier.pipeline.stage_02_prepare_base_model",
+        "description": "src.cnnClassifier.pipeline.stage_02_prepare_base_model",
+        "peekOfCode": "STAGE_NAME = \"Prepare base model\"\nclass PrepareBaseModelTrainingPipeline:\n    def __init__(self):\n        pass\n    def main(self):\n        config = ConfigurationManager()\n        prepare_base_model_config = config.get_prepare_base_model_config()\n        prepare_base_model = PrepareBaseModel(config=prepare_base_model_config)\n        prepare_base_model.get_base_model()\n        prepare_base_model.update_base_model()",
+        "detail": "src.cnnClassifier.pipeline.stage_02_prepare_base_model",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainingPipeline",
+        "kind": 6,
+        "importPath": "src.cnnClassifier.pipeline.stage_03_model_trainer",
+        "description": "src.cnnClassifier.pipeline.stage_03_model_trainer",
+        "peekOfCode": "class ModelTrainingPipeline:\n    def __init__(self):\n        pass\n    def main(self):\n        config = ConfigurationManager()\n        training_config = config.get_training_config()\n        training = Training(config=training_config)\n        training.get_base_model()\n        training.train_valid_generator()\n        training.train()",
+        "detail": "src.cnnClassifier.pipeline.stage_03_model_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "STAGE_NAME",
+        "kind": 5,
+        "importPath": "src.cnnClassifier.pipeline.stage_03_model_trainer",
+        "description": "src.cnnClassifier.pipeline.stage_03_model_trainer",
+        "peekOfCode": "STAGE_NAME = \"Training\"\nclass ModelTrainingPipeline:\n    def __init__(self):\n        pass\n    def main(self):\n        config = ConfigurationManager()\n        training_config = config.get_training_config()\n        training = Training(config=training_config)\n        training.get_base_model()\n        training.train_valid_generator()",
+        "detail": "src.cnnClassifier.pipeline.stage_03_model_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "EvaluationPipeline",
+        "kind": 6,
+        "importPath": "src.cnnClassifier.pipeline.stage_04_model_evaluation",
+        "description": "src.cnnClassifier.pipeline.stage_04_model_evaluation",
+        "peekOfCode": "class EvaluationPipeline:\n    def __init__(self):\n        pass\n    def main(self):\n        config = ConfigurationManager()\n        eval_config = config.get_evaluation_config()\n        evaluation = Evaluation(eval_config)\n        evaluation.evaluation()\n        evaluation.save_score()\n        evaluation.log_into_mlflow()",
+        "detail": "src.cnnClassifier.pipeline.stage_04_model_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "STAGE_NAME",
+        "kind": 5,
+        "importPath": "src.cnnClassifier.pipeline.stage_04_model_evaluation",
+        "description": "src.cnnClassifier.pipeline.stage_04_model_evaluation",
+        "peekOfCode": "STAGE_NAME = \"Evaluation stage\"\nclass EvaluationPipeline:\n    def __init__(self):\n        pass\n    def main(self):\n        config = ConfigurationManager()\n        eval_config = config.get_evaluation_config()\n        evaluation = Evaluation(eval_config)\n        evaluation.evaluation()\n        evaluation.save_score()",
+        "detail": "src.cnnClassifier.pipeline.stage_04_model_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "read_yaml",
+        "kind": 2,
+        "importPath": "src.cnnClassifier.utils.common",
+        "description": "src.cnnClassifier.utils.common",
+        "peekOfCode": "def read_yaml(path_to_yaml: Path) -> ConfigBox:\n    \"\"\"reads yaml file and returns\n    Args:\n        path_to_yaml (str): path like input\n    Raises:\n        ValueError: if yaml file is empty\n        e: empty file\n    Returns:\n        ConfigBox: ConfigBox type\n    \"\"\"",
+        "detail": "src.cnnClassifier.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "create_directories",
+        "kind": 2,
+        "importPath": "src.cnnClassifier.utils.common",
+        "description": "src.cnnClassifier.utils.common",
+        "peekOfCode": "def create_directories(path_to_directories: list, verbose=True):\n    \"\"\"create list of directories\n    Args:\n        path_to_directories (list): list of path of directories\n        ignore_log (bool, optional): ignore if multiple dirs is to be created. Defaults to False.\n    \"\"\"\n    for path in path_to_directories:\n        os.makedirs(path, exist_ok=True)\n        if verbose:\n            logger.info(f\"created directory at: {path}\")",
+        "detail": "src.cnnClassifier.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "save_json",
+        "kind": 2,
+        "importPath": "src.cnnClassifier.utils.common",
+        "description": "src.cnnClassifier.utils.common",
+        "peekOfCode": "def save_json(path: Path, data: dict):\n    \"\"\"save json data\n    Args:\n        path (Path): path to json file\n        data (dict): data to be saved in json file\n    \"\"\"\n    with open(path, \"w\") as f:\n        json.dump(data, f, indent=4)\n    logger.info(f\"json file saved at: {path}\")\n@ensure_annotations",
+        "detail": "src.cnnClassifier.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "load_json",
+        "kind": 2,
+        "importPath": "src.cnnClassifier.utils.common",
+        "description": "src.cnnClassifier.utils.common",
+        "peekOfCode": "def load_json(path: Path) -> ConfigBox:\n    \"\"\"load json files data\n    Args:\n        path (Path): path to json file\n    Returns:\n        ConfigBox: data as class attributes instead of dict\n    \"\"\"\n    with open(path) as f:\n        content = json.load(f)\n    logger.info(f\"json file loaded succesfully from: {path}\")",
+        "detail": "src.cnnClassifier.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "save_bin",
+        "kind": 2,
+        "importPath": "src.cnnClassifier.utils.common",
+        "description": "src.cnnClassifier.utils.common",
+        "peekOfCode": "def save_bin(data: Any, path: Path):\n    \"\"\"save binary file\n    Args:\n        data (Any): data to be saved as binary\n        path (Path): path to binary file\n    \"\"\"\n    joblib.dump(value=data, filename=path)\n    logger.info(f\"binary file saved at: {path}\")\n@ensure_annotations\ndef load_bin(path: Path) -> Any:",
+        "detail": "src.cnnClassifier.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "load_bin",
+        "kind": 2,
+        "importPath": "src.cnnClassifier.utils.common",
+        "description": "src.cnnClassifier.utils.common",
+        "peekOfCode": "def load_bin(path: Path) -> Any:\n    \"\"\"load binary data\n    Args:\n        path (Path): path to binary file\n    Returns:\n        Any: object stored in the file\n    \"\"\"\n    data = joblib.load(path)\n    logger.info(f\"binary file loaded from: {path}\")\n    return data",
+        "detail": "src.cnnClassifier.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "get_size",
+        "kind": 2,
+        "importPath": "src.cnnClassifier.utils.common",
+        "description": "src.cnnClassifier.utils.common",
+        "peekOfCode": "def get_size(path: Path) -> str:\n    \"\"\"get size in KB\n    Args:\n        path (Path): path of the file\n    Returns:\n        str: size in KB\n    \"\"\"\n    size_in_kb = round(os.path.getsize(path)/1024)\n    return f\"~ {size_in_kb} KB\"\ndef decodeImage(imgstring, fileName):",
+        "detail": "src.cnnClassifier.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "decodeImage",
+        "kind": 2,
+        "importPath": "src.cnnClassifier.utils.common",
+        "description": "src.cnnClassifier.utils.common",
+        "peekOfCode": "def decodeImage(imgstring, fileName):\n    imgdata = base64.b64decode(imgstring)\n    with open(fileName, 'wb') as f:\n        f.write(imgdata)\n        f.close()\ndef encodeImageIntoBase64(croppedImagePath):\n    with open(croppedImagePath, \"rb\") as f:\n        return base64.b64encode(f.read())",
+        "detail": "src.cnnClassifier.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "encodeImageIntoBase64",
+        "kind": 2,
+        "importPath": "src.cnnClassifier.utils.common",
+        "description": "src.cnnClassifier.utils.common",
+        "peekOfCode": "def encodeImageIntoBase64(croppedImagePath):\n    with open(croppedImagePath, \"rb\") as f:\n        return base64.b64encode(f.read())",
+        "detail": "src.cnnClassifier.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "ClientApp",
+        "kind": 6,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "class ClientApp:\n    def __init__(self):\n        self.filename = \"inputImage.jpg\"\n        self.classifier = PredictionPipeline(self.filename)\n@app.route(\"/\", methods=['GET'])\n@cross_origin()\ndef home():\n    return render_template('index.html')\n@app.route(\"/train\", methods=['GET','POST'])\n@cross_origin()",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def home():\n    return render_template('index.html')\n@app.route(\"/train\", methods=['GET','POST'])\n@cross_origin()\ndef trainRoute():\n    # os.system(\"python main.py\")\n    os.system(\"dvc repro\")\n    return \"Training done successfully!\"\n@app.route(\"/predict\", methods=['POST'])\n@cross_origin()",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "trainRoute",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def trainRoute():\n    # os.system(\"python main.py\")\n    os.system(\"dvc repro\")\n    return \"Training done successfully!\"\n@app.route(\"/predict\", methods=['POST'])\n@cross_origin()\ndef predictRoute():\n    image = request.json['image']\n    decodeImage(image, clApp.filename)\n    result = clApp.classifier.predict()",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "predictRoute",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def predictRoute():\n    image = request.json['image']\n    decodeImage(image, clApp.filename)\n    result = clApp.classifier.predict()\n    return jsonify(result)\nif __name__ == \"__main__\":\n    clApp = ClientApp()\n    app.run(host='0.0.0.0', port=8080) #for AWS",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app = Flask(__name__)\nCORS(app)\nclass ClientApp:\n    def __init__(self):\n        self.filename = \"inputImage.jpg\"\n        self.classifier = PredictionPipeline(self.filename)\n@app.route(\"/\", methods=['GET'])\n@cross_origin()\ndef home():\n    return render_template('index.html')",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "STAGE_NAME",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "STAGE_NAME = \"Data Ingestion stage\"\ntry:\n    logger.info(f\">>>>>> stage {STAGE_NAME} started <<<<<<\")\n    obj = DataIngestionTrainingPipeline()\n    obj.main()\n    logger.info(f\">>>>>> stage {STAGE_NAME} completed <<<<<<\\n\\nx==========x\")\nexcept Exception as e:\n    logger.exception(e)\n    raise e\nSTAGE_NAME = \"Prepare base model\"",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "STAGE_NAME",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "STAGE_NAME = \"Prepare base model\"\ntry: \n   logger.info(f\"*******************\")\n   logger.info(f\">>>>>> stage {STAGE_NAME} started <<<<<<\")\n   prepare_base_model = PrepareBaseModelTrainingPipeline()\n   prepare_base_model.main()\n   logger.info(f\">>>>>> stage {STAGE_NAME} completed <<<<<<\\n\\nx==========x\")\nexcept Exception as e:\n        logger.exception(e)\n        raise e",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "STAGE_NAME",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "STAGE_NAME = \"Training\"\ntry: \n   logger.info(f\"*******************\")\n   logger.info(f\">>>>>> stage {STAGE_NAME} started <<<<<<\")\n   model_trainer = ModelTrainingPipeline()\n   model_trainer.main()\n   logger.info(f\">>>>>> stage {STAGE_NAME} completed <<<<<<\\n\\nx==========x\")\nexcept Exception as e:\n        logger.exception(e)\n        raise e",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "STAGE_NAME",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "STAGE_NAME = \"Evaluation stage\"\ntry:\n   logger.info(f\"*******************\")\n   logger.info(f\">>>>>> stage {STAGE_NAME} started <<<<<<\")\n   model_evalution = EvaluationPipeline()\n   model_evalution.main()\n   logger.info(f\">>>>>> stage {STAGE_NAME} completed <<<<<<\\n\\nx==========x\")\nexcept Exception as e:\n        logger.exception(e)\n        raise e",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "__version__",
+        "kind": 5,
+        "importPath": "setup",
+        "description": "setup",
+        "peekOfCode": "__version__ = \"0.0.0\"\nREPO_NAME = \"Chest-Disease-Classification-from-Chest-CT-Scan-Image\"\nAUTHOR_USER_NAME = \"sandeepreddygantla\"\nSRC_REPO = \"cnnClassifier\"\nAUTHOR_EMAIL = \"gantlasandeep98@gmail.com\"\nsetuptools.setup(\n    name=SRC_REPO,\n    version=__version__,\n    author=AUTHOR_USER_NAME,\n    author_email=AUTHOR_EMAIL,",
+        "detail": "setup",
+        "documentation": {}
+    },
+    {
+        "label": "REPO_NAME",
+        "kind": 5,
+        "importPath": "setup",
+        "description": "setup",
+        "peekOfCode": "REPO_NAME = \"Chest-Disease-Classification-from-Chest-CT-Scan-Image\"\nAUTHOR_USER_NAME = \"sandeepreddygantla\"\nSRC_REPO = \"cnnClassifier\"\nAUTHOR_EMAIL = \"gantlasandeep98@gmail.com\"\nsetuptools.setup(\n    name=SRC_REPO,\n    version=__version__,\n    author=AUTHOR_USER_NAME,\n    author_email=AUTHOR_EMAIL,\n    description=\"A small python package for CNN app\",",
+        "detail": "setup",
+        "documentation": {}
+    },
+    {
+        "label": "AUTHOR_USER_NAME",
+        "kind": 5,
+        "importPath": "setup",
+        "description": "setup",
+        "peekOfCode": "AUTHOR_USER_NAME = \"sandeepreddygantla\"\nSRC_REPO = \"cnnClassifier\"\nAUTHOR_EMAIL = \"gantlasandeep98@gmail.com\"\nsetuptools.setup(\n    name=SRC_REPO,\n    version=__version__,\n    author=AUTHOR_USER_NAME,\n    author_email=AUTHOR_EMAIL,\n    description=\"A small python package for CNN app\",\n    long_description=long_description,",
+        "detail": "setup",
+        "documentation": {}
+    },
+    {
+        "label": "SRC_REPO",
+        "kind": 5,
+        "importPath": "setup",
+        "description": "setup",
+        "peekOfCode": "SRC_REPO = \"cnnClassifier\"\nAUTHOR_EMAIL = \"gantlasandeep98@gmail.com\"\nsetuptools.setup(\n    name=SRC_REPO,\n    version=__version__,\n    author=AUTHOR_USER_NAME,\n    author_email=AUTHOR_EMAIL,\n    description=\"A small python package for CNN app\",\n    long_description=long_description,\n    long_description_content=\"text/markdown\",",
+        "detail": "setup",
+        "documentation": {}
+    },
+    {
+        "label": "AUTHOR_EMAIL",
+        "kind": 5,
+        "importPath": "setup",
+        "description": "setup",
+        "peekOfCode": "AUTHOR_EMAIL = \"gantlasandeep98@gmail.com\"\nsetuptools.setup(\n    name=SRC_REPO,\n    version=__version__,\n    author=AUTHOR_USER_NAME,\n    author_email=AUTHOR_EMAIL,\n    description=\"A small python package for CNN app\",\n    long_description=long_description,\n    long_description_content=\"text/markdown\",\n    url=f\"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}\",",
+        "detail": "setup",
+        "documentation": {}
+    },
+    {
+        "label": "project_name",
+        "kind": 5,
+        "importPath": "template",
+        "description": "template",
+        "peekOfCode": "project_name = \"cnnClassifier\"\nlist_of_files = [\n    f\"src/{project_name}/__init__.py\",\n    f\"src/{project_name}/components/__init__.py\",\n    f\"src/{project_name}/utils/__init__.py\",\n    f\"src/{project_name}/config/__init__.py\",\n    f\"src/{project_name}/config/configuration.py\",\n    f\"src/{project_name}/pipeline/__init__.py\",\n    f\"src/{project_name}/entity/__init__.py\",\n    f\"src/{project_name}/constants/__init__.py\",",
+        "detail": "template",
+        "documentation": {}
+    },
+    {
+        "label": "list_of_files",
+        "kind": 5,
+        "importPath": "template",
+        "description": "template",
+        "peekOfCode": "list_of_files = [\n    f\"src/{project_name}/__init__.py\",\n    f\"src/{project_name}/components/__init__.py\",\n    f\"src/{project_name}/utils/__init__.py\",\n    f\"src/{project_name}/config/__init__.py\",\n    f\"src/{project_name}/config/configuration.py\",\n    f\"src/{project_name}/pipeline/__init__.py\",\n    f\"src/{project_name}/entity/__init__.py\",\n    f\"src/{project_name}/constants/__init__.py\",\n    \"config/config.yaml\",",
+        "detail": "template",
+        "documentation": {}
+    }
+]
